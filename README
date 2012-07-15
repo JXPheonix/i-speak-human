@@ -1,0 +1,7 @@
+A lot of people hate terminal commands with a passion. Of course, not the type of person that likes to browse github (normally), but rather, everyday humans that want to play their call of duty or do whatever but terminal commands are just making their life harder.
+
+It's not necessarily terminal commands that people have trouble with, though. I mean, really, how many times do you need to enter a terminal command to get a game working? If everytime you start up a game, you need to open terminal and run a command, you have problems. (You need to set up a shell script, dummy.) No, sometimes there are just general problems of "why wont this file open" (it needs admin rights) or "why can't i have a conversation with my computer". Well, as of now that second option isn't possible, but if you get angry enough to type in terminal "Computer, just for god's sake open the friggin file" you may be surprised to learn that your computer will try and check multiple things to try to open the file, because obviously you're pretty angry.
+
+That is what i-speak-human aims to do: cut through the clutter of human emotions and try to do what you ask.
+
+Commands will always start with "Computer, ". WIP.
